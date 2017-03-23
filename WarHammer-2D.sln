@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarHammer-2D", "WarHammer-2D.csproj", "{75BEEEA5-309D-A4C6-5DF6-489F2795F05A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarHammer-2D.Editor", "WarHammer-2D.Editor.csproj", "{D0C3B7BC-902E-6036-B771-0EC2D001B7F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{75BEEEA5-309D-A4C6-5DF6-489F2795F05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75BEEEA5-309D-A4C6-5DF6-489F2795F05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75BEEEA5-309D-A4C6-5DF6-489F2795F05A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C3B7BC-902E-6036-B771-0EC2D001B7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C3B7BC-902E-6036-B771-0EC2D001B7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C3B7BC-902E-6036-B771-0EC2D001B7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C3B7BC-902E-6036-B771-0EC2D001B7F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
